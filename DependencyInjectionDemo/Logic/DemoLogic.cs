@@ -7,6 +7,6 @@ public class DemoLogic
     public DemoLogic()
     {
         Value1 = Random.Shared.Next(minValue: 1, maxValue: 1001);
-        Value1 = Random.Shared.Next(minValue: 1, maxValue: 1001);
+        Value2 = Random.Shared.Next(minValue: 1, maxValue: 1001);
     }
 }
