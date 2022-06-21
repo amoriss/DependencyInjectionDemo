@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e70eYw+FJTlQQuIk/2IMURXAJvumb8h3qqyIYRYSR1hRBDxQ/8+9PnOUuzDN+EqXYwLmgImewWz53iklbvmwmw==",
+  "dgSpecHash": "KgDBZLnaGO04sGqOThuAfv1QisKXoV6Z5Anqjn7DEPe/NIlQ3p1BYc9Sra0VpXU1QL4Ns7mH7FvGY1VdWAuDTA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\amori\\repos\\TimCorey\\DependencyInjectionDemoApp\\DependencyInjectionDemo\\DependencyInjectionDemo.csproj",
+  "projectFilePath": "C:\\Users\\amori\\2nd\\TimCorey\\DependencyInjectionDemoApp\\DependencyInjectionDemo\\DependencyInjectionDemo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
